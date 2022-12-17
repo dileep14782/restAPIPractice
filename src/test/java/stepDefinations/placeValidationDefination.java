@@ -76,6 +76,7 @@ public class placeValidationDefination extends Utils {
 		res = given().spec(requestSpecifications()).body(data.deletePlaceID(place_id));
 		System.out.println("practicing git");
 		System.out.println("making changes in code");
+		System.out.println("making changin in develop branch");
     }
 
 }
