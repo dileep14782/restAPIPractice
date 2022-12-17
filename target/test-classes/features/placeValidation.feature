@@ -13,6 +13,7 @@ Examples:
 	|name  			|  language	| address  						|
 	|BBQGrill		| French		| Italy France				|
 	|BBQ				| Rome			| Rome France					|
+
 	
 @DeletePlace
 Scenario: Verify if Delete place API is working

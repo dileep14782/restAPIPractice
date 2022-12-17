@@ -74,6 +74,8 @@ public class placeValidationDefination extends Utils {
     public void delete_place_payload() throws IOException {		
 		
 		res = given().spec(requestSpecifications()).body(data.deletePlaceID(place_id));
+		System.out.println("practicing git");
+		System.out.println("making changes in code");
     }
 
 }
